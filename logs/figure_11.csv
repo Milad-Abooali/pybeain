@@ -1,0 +1,3 @@
+response,false,code,sell,number,float,symbol,forex,datetime,yyyy-mm-dd,FAQ
+response,false,code,sell,number,float,symbol,forex,datetime,yyyy-mm-dd,Handy
+response,true,code,sell,number,float,symbol,forex,datetime,yyyy-mm-dd,FAQ

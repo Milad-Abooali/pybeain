@@ -1,0 +1,35 @@
+
+
+Data Set (CSV)
+
+    Response
+        1. True / Yes (S)
+        2. False / NO (S)
+
+    Symbols
+        1. forex (F)
+        2. crypto (F)
+        
+    Datetime
+        1. day names (s)
+        2. month names (s)
+        2. calendar dimension (s)
+
+
+    CODE / Command
+        1. Buy (s)
+        2. Sell (s)
+        3. Deposit (s)
+        4. Withdraw (s)
+
+	ASK
+	    1. Requests (need,request,want,tell,give me,...)
+	    2. Question (how,whats,where,who,why,when,which,...)
+
+	Handy
+	    1. start (hello,...)
+	    2. end (bye,...)
+	    3. calculate (...)
+	    4. consultant (...)
+	    5. volume (count,size,...)
+	    6.  (...)
