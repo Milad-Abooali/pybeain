@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+    <meta name="author" content="Jon Baer"/>
+    <meta name="language" content="en"/>
+    <category>
+        <pattern>حساس</pattern>
+        <template>
+           God | Fox | F#$
+        </template>
+    </category>
+</aiml>
