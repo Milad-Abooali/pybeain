@@ -1,3 +1,11 @@
 panda
 matplotlib
 sklearn
+
+
+---
+
+ Person Substitutions
+Topics
+Redirections
+Priority Triggers
