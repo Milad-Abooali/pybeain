@@ -9,3 +9,16 @@ sklearn
 Topics
 Redirections
 Priority Triggers
+
+
+
+===
+qaue for tasks
+
+==
+
+Copy Walker
+
+Reset Walker
+
+End Walker
