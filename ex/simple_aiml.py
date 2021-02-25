@@ -1,28 +1,40 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+import os
+import sys
 import aiml
 import time
 
 airob = aiml.Kernel()
-airob.learn("std-startup.xml")
+airob.learn("brain\\ex\\std-startup.xml")
 airob.respond("LOAD AIML")
 
 lastInput = ''
-while True:
-    inputFile  = open('temp/input.txt', 'r')
-    inputLines = inputFile.readline()
-    if lastInput!=inputLines:
-        lastInput = inputLines
-        outputFile = open('temp/output.txt', "w")
-        print (inputLines)
-        output = airob.respond(inputLines)
-        print ('res:'+output)
-        outputFile.write(output)
-        outputFile.write("\n")
-        outputFile.close()
-        time.sleep(3)
-    print ('...')
-    time.sleep(2)
-    inputFile.close()
+#print (os.getcwdb())
 
+oFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '_output.txt'
+iFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '_input.txt'
+
+print(os.getpid());
+i=0
+while True:
+    if i>10:
+        outputFile = open(oFilePath, "w")
+        outputFile.write('#~50')
+        outputFile.close()
+        break
+    else:
+        inputFile  = open(iFilePath, 'r')
+        inputLines = inputFile.readline()
+        if lastInput!=inputLines:
+            i=0
+            lastInput = inputLines
+            outputFile = open(oFilePath, "w")
+            outputFile.write(airob.respond(inputLines))
+            outputFile.close()
+            time.sleep(3)
+        else:
+            i = i+1
+        inputFile.close()
+        time.sleep(2)
