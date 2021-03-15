@@ -1,8 +1,0 @@
-#file to be ignored
-.env
-.pyc
-.cpython-36.pyc
-*.pyc
-*~
-*.swp
-.idea

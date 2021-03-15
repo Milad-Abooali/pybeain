@@ -7,22 +7,23 @@ import aiml
 import time
 
 airob = aiml.Kernel()
-airob.learn("brain\\ex\\std-startup.xml")
+airob.learn("brain\\ex\\aiml-startup.xml")
 airob.respond("LOAD AIML")
 
 lastInput = ''
 
-oFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\response.log'
-iFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\input.log'
+oFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\response.txt'
+iFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\input.txt'
 
-pidFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\pid.log'
+pidFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\pid.txt'
 outputFile = open(pidFilePath, "w")
-outputFile.write(os.getpid())
-outputFile.close()
+outputFile.write(str(os.getpid()))
+outputFile.flush()
+#outputFile.close()
 
 i=0
 while True:
-    if i>1500:
+    if i>180: # 180 : 3 min
         os.remove(pidFilePath)
         break
     else:
@@ -31,11 +32,11 @@ while True:
         if lastInput!=inputLines:
             i=0
             lastInput = inputLines
+            inputFile.close()
             outputFile = open(oFilePath, "w")
             outputFile.write(airob.respond(inputLines))
             outputFile.close()
-            time.sleep(3)
+            time.sleep(0.1)
         else:
             i = i+1
-        inputFile.close()
-        time.sleep(2)
+        time.sleep(0.1)

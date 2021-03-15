@@ -22,3 +22,9 @@ Copy Walker
 Reset Walker
 
 End Walker
+
+
+////
+NLTK
+SPACY
+AIML
