@@ -7,15 +7,15 @@ import aiml
 import time
 
 airob = aiml.Kernel()
-airob.learn("brain\\ex\\aiml-startup.xml")
+airob.learn("brain\\bridge\\aiml-list.xml")
 airob.respond("LOAD AIML")
 
 lastInput = ''
 
-oFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\response.txt'
-iFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\input.txt'
+oFilePath = 'brain\\bridge\\temp\\'+sys.argv[1] + '\\response.txt'
+iFilePath = 'brain\\bridge\\temp\\'+sys.argv[1] + '\\input.txt'
 
-pidFilePath = 'brain\\ex\\temp\\'+sys.argv[1] + '\\pid.txt'
+pidFilePath = 'brain\\bridge\\temp\\'+sys.argv[1] + '\\pid.txt'
 outputFile = open(pidFilePath, "w")
 outputFile.write(str(os.getpid()))
 outputFile.flush()
