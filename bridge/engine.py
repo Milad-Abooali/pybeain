@@ -5,6 +5,10 @@ import os
 import sys
 import aiml
 import time
+import datetime
+def UtcNow():
+    now = datetime.datetime.utcnow()
+    return int(now.strftime("%s"))
 
 airob = aiml.Kernel()
 airob.learn("brain\\bridge\\aiml-list.xml")
@@ -12,19 +16,22 @@ airob.respond("LOAD AIML")
 
 lastInput = ''
 
-oFilePath = 'brain\\bridge\\temp\\'+sys.argv[1] + '\\response.txt'
-iFilePath = 'brain\\bridge\\temp\\'+sys.argv[1] + '\\input.txt'
+oFilePath = 'brain\\bridge\\sessions\\'+sys.argv[1] + '\\response.txt'
+iFilePath = 'brain\\bridge\\sessions\\'+sys.argv[1] + '\\input.txt'
 
-pidFilePath = 'brain\\bridge\\temp\\'+sys.argv[1] + '\\pid.txt'
+pidFilePath = 'brain\\bridge\\sessions\\'+sys.argv[1] + '\\pid.txt'
 outputFile = open(pidFilePath, "w")
-outputFile.write(str(os.getpid()))
+pid = os.getpid()
+outputFile.write(str(pid))
 outputFile.flush()
 #outputFile.close()
+print(f'{pid} Started.')
 
 i=0
 while True:
     if i>180: # 180 : 3 min
         os.remove(pidFilePath)
+        print(f'{pid} Stoped.')
         break
     else:
         inputFile  = open(iFilePath, 'r')
