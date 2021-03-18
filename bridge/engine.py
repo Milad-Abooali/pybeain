@@ -24,12 +24,14 @@ outputFile = open(pidFilePath, "w")
 pid = os.getpid()
 outputFile.write(str(pid))
 outputFile.flush()
-#outputFile.close()
+
 print(f'{pid} Started.')
 
 i=0
 while True:
-    if i>180: # 180 : 3 min
+    if i>300: # 180 : 3 min
+        outputFile.close()
+        #outputFile.shutdown()
         os.remove(pidFilePath)
         print(f'{pid} Stoped.')
         break

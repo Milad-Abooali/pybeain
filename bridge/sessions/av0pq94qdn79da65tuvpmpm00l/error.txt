@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "C:\wamp\www\crmlab\ai\brain\bridge\engine.py", line 28, in <module>
-    print(UtcNow() + f'{pid} Started.')
-  File "C:\wamp\www\crmlab\ai\brain\bridge\engine.py", line 11, in UtcNow
-    return int(now.strftime("%s"))
-ValueError: Invalid format string
