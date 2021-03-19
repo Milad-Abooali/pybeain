@@ -1,2 +1,6 @@
 cmd,stop,symbol,response,Handy
 cmd,stop,symbol,response,Handy
+ask,true,number,symbol,Handy
+ask,question,number,symbol,Handy
+ask,request,cmd,buy,Handy
+ask,request,cmd,buy,Handy

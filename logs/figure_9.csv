@@ -1,0 +1,5 @@
+ask,question,cmd,buy,symbol,number,unit,trade,Handy
+ask,question,cmd,buy,number,unit,trade,symbol,Handy
+ask,question,cmd,sell,number,unit,trade,symbol,Handy
+cmd,buy,number,unit,trade,symbol,price,float,Handy
+cmd,buy,number,unit,trade,symbol,price,float,Handy

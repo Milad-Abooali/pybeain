@@ -1,1 +1,4 @@
 word,word,word,cmd,stop,symbol,forex,response,true,word,Handy
+ask,question,word,cmd,buy,number,int,word,symbol,forex,Handy
+ask,question,word,cmd,buy,symbol,forex,number,int,word,Handy
+ask,question,word,cmd,buy,symbol,forex,number,int,word,Handy

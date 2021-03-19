@@ -1,2 +1,10 @@
 cmd,stop,symbol,response,cmd,stop,Handy
 cmd,stop,symbol,response,cmd,stop,Handy
+ask,question,cmd,buy,number,symbol,Handy
+ask,question,cmd,buy,symbol,number,Handy
+ask,question,cmd,buy,symbol,number,Handy
+cmd,sell,number,unit,trade,symbol,Handy
+cmd,sell,number,unit,trade,symbol,Handy
+cmd,sell,number,unit,trade,symbol,Handy
+cmd,sell,number,unit,trade,symbol,Handy
+ask,request,cmd,buy,price,int,Handy

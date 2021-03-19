@@ -1,2 +1,9 @@
 word,word,word,cmd,stop,symbol,forex,response,true,Handy
 word,word,word,word,word,word,word,word,word,Handy
+ask,true,word,word,number,int,word,symbol,forex,Handy
+ask,question,word,word,number,int,word,symbol,forex,Handy
+word,cmd,sell,number,int,unit,trade,symbol,forex,Handy
+cmd,sell,number,int,unit,trade,symbol,forex,word,Handy
+cmd,sell,number,int,unit,trade,symbol,forex,word,Handy
+ask,request,word,word,cmd,buy,word,word,word,Handy
+ask,request,word,word,cmd,buy,word,price,int,Handy
