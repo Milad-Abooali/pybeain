@@ -3,3 +3,5 @@ word,word,word,cmd,stop,symbol,forex,Handy
 word,word,word,word,word,word,word,Handy
 word,word,word,word,word,word,word,Handy
 ask,request,word,word,cmd,buy,word,Handy
+word,word,cmd,buy,symbol,forex,word,Handy
+word,word,cmd,buy,symbol,forex,word,Handy

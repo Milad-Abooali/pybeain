@@ -7,3 +7,8 @@ cmd,sell,number,int,unit,trade,symbol,forex,word,Handy
 cmd,sell,number,int,unit,trade,symbol,forex,word,Handy
 ask,request,word,word,cmd,buy,word,word,word,Handy
 ask,request,word,word,cmd,buy,word,price,int,Handy
+word,word,word,cmd,deposit,word,word,word,word,Handy
+word,word,word,cmd,deposit,word,word,word,word,Handy
+word,word,word,cmd,deposit,word,word,word,word,Handy
+word,word,word,cmd,deposit,word,word,word,word,Handy
+word,word,word,cmd,deposit,word,word,word,word,Handy

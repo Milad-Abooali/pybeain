@@ -1,3 +1,6 @@
 cmd,stop,symbol,Handy
 cmd,stop,symbol,Handy
 ask,question,symbol,Handy
+cmd,buy,symbol,Handy
+cmd,buy,symbol,Handy
+cmd,buy,symbol,Handy
