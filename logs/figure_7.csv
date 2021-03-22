@@ -10,3 +10,10 @@ cmd,sell,number,unit,trade,symbol,Handy
 ask,request,cmd,buy,price,int,Handy
 cmd,buy,symbol,number,unit,trade,Handy
 ask,question,ask,question,ask,question,Handy
+ask,question,handy,greetings,handy,greetings,Handy
+ask,question,handy,greetings,handy,greetings,Handy
+ask,question,handy,greetings,handy,greetings,Handy
+ask,question,handy,greetings,handy,greetings,Handy
+ask,question,handy,greetings,handy,greetings,Handy
+ask,question,handy,greetings,handy,greetings,Handy
+ask,question,handy,greetings,handy,greetings,Handy
