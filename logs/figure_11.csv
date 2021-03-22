@@ -10,3 +10,5 @@ ask,request,cmd,buy,symbol,number,unit,trade,price,float,Handy
 ask,request,cmd,buy,symbol,number,unit,trade,price,float,Handy
 ask,request,cmd,buy,symbol,number,unit,trade,price,float,Handy
 ask,request,cmd,buy,symbol,number,unit,trade,price,float,Handy
+ask,request,cmd,buy,number,response,unit,trade,symbol,symbol,Handy
+ask,request,cmd,buy,number,response,unit,trade,symbol,symbol,Handy
