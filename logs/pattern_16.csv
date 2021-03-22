@@ -7,3 +7,5 @@ ask,request,word,word,cmd,buy,symbol,forex,word,number,int,unit,trade,price,floa
 ask,request,word,word,cmd,buy,symbol,forex,word,number,int,unit,trade,price,float,Handy
 ask,request,word,word,cmd,buy,symbol,forex,word,number,int,unit,trade,price,float,Handy
 ask,request,word,word,cmd,buy,symbol,forex,word,number,int,unit,trade,price,float,Handy
+ask,question,handy,greetings,word,word,word,word,ask,question,handy,greetings,word,word,word,Handy
+ask,question,handy,greetings,word,word,word,word,ask,question,handy,greetings,word,word,word,Handy

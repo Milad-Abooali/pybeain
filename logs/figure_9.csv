@@ -3,3 +3,6 @@ ask,question,cmd,buy,number,unit,trade,symbol,Handy
 ask,question,cmd,sell,number,unit,trade,symbol,Handy
 cmd,buy,number,unit,trade,symbol,price,float,Handy
 cmd,buy,number,unit,trade,symbol,price,float,Handy
+ask,question,handy,greetings,ask,question,handy,greetings,Handy
+ask,question,handy,greetings,ask,question,handy,greetings,Handy
+ask,question,handy,greetings,ask,question,handy,greetings,Handy
