@@ -1,3 +1,4 @@
 ask,request,word,cmd,buy,symbol,forex,number,int,unit,trade,price,float,Handy
 ask,request,word,cmd,buy,symbol,forex,number,int,unit,trade,price,float,Handy
 ask,request,word,cmd,buy,symbol,forex,number,int,unit,trade,price,float,Handy
+ask,question,word,word,word,word,word,word,word,word,response,false,word,Handy
