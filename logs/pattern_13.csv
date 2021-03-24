@@ -28,3 +28,4 @@ faq,"when can i start trading",faq,"when can i start trading",ask,question,word,
 ask,request,ask,request,word,word,word,cmd,stop,word,word,word,Handy
 word,response,true,handy,response_p,word,word,word,symbol,forex,word,word,Handy
 word,response,true,handy,response_p,word,word,word,symbol,forex,word,word,Handy
+ask,question,word,word,faq,"what is margin call",word,faq,"what is margin call",word,word,word,Handy

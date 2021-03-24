@@ -12,3 +12,4 @@ response,response,response,Handy
 response,handy,response_p,Handy
 response,cmd,stop,Handy
 cmd,sell,symbol,Handy
+ask,question,symbol,Handy

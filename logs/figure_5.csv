@@ -88,3 +88,6 @@ ask,question,ask,question,Handy
 ask,request,ask,request,Handy
 ask,request,ask,request,Handy
 faq,"what is the value of a pip",faq,"what is leverage",Handy
+ask,request,cmd,buy,Handy
+ask,question,unit,trade,Handy
+ask,question,unit,trade,Handy

@@ -41,3 +41,4 @@ faq,"what is take profit",ask,question,unit,trade,Handy
 faq,"what is swap",faq,"what is swap",ask,question,Handy
 faq,"what is swap",faq,"what is swap",ask,question,Handy
 faq,"when can i start trading",ask,request,ask,request,Handy
+ask,question,faq,"what is margin call",faq,"what is margin call",Handy
