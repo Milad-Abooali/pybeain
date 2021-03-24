@@ -1,0 +1,3 @@
+ask,question,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,symbol,forex,word,word,response,true,handy,response_p,word,word,Handy
+ask,request,word,cmd,sell,word,number,int,word,unit,trade,word,faq,"do you offer demo account",symbol,forex,word,faq,"do you offer demo account",word,faq,"do you offer demo account",word,word,word,Handy
+ask,request,word,cmd,sell,word,number,int,word,unit,trade,word,faq,"do you offer demo account",symbol,forex,word,faq,"do you offer demo account",word,faq,"do you offer demo account",word,word,word,Handy

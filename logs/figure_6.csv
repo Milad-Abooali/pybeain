@@ -1,1 +1,3 @@
 cmd,sell,number,unit,trade,Handy
+ask,question,response,cmd,stop,Handy
+ask,question,cmd,buy,symbol,Handy

@@ -1,1 +1,3 @@
 ask,request,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,symbol,forex,word,handy,hello,word,Handy
+ask,question,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,symbol,forex,symbol,forex,word,Handy
+ask,question,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,symbol,forex,symbol,forex,word,Handy

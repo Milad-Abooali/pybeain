@@ -12,3 +12,21 @@ ask,request,cmd,buy,symbol,number,unit,trade,price,float,Handy
 ask,request,cmd,buy,symbol,number,unit,trade,price,float,Handy
 ask,request,cmd,buy,number,response,unit,trade,symbol,symbol,Handy
 ask,request,cmd,buy,number,response,unit,trade,symbol,symbol,Handy
+handy,hello,handy,hello,handy,hello,handy,hello,handy,hello,Handy
+ask,question,cmd,buy,number,response,unit,trade,symbol,symbol,Handy
+ask,question,cmd,buy,number,response,unit,trade,symbol,symbol,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,faq,"what documents are required to open an account",ask,question,Handy
+faq,"what is take profit",faq,"what is stop loss",ask,question,response,handy,response_p,symbol,Handy
+faq,"what is stop loss",faq,"what is take profit",ask,question,faq,"what is stop loss",cmd,stop,Handy
+faq,"what is stop loss",faq,"what is take profit",ask,question,faq,"what is stop loss",cmd,stop,Handy
+faq,"what is stop loss",faq,"what is take profit",ask,question,faq,"what is stop loss",cmd,stop,Handy
+faq,"when can i start trading",ask,request,ask,request,faq,"when can i start trading",faq,"when can i start trading",Handy

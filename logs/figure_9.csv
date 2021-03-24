@@ -7,3 +7,30 @@ ask,question,handy,greetings,ask,question,handy,greetings,Handy
 ask,question,handy,greetings,ask,question,handy,greetings,Handy
 ask,question,handy,greetings,ask,question,handy,greetings,Handy
 handy,hello,handy,hello,handy,hello,handy,hello,Handy
+handy,hello,handy,hello,handy,hello,handy,hello,Handy
+ask,question,cmd,buy,symbol,response,handy,response_p,Handy
+ask,question,cmd,buy,symbol,response,handy,response_p,Handy
+ask,question,cmd,buy,symbol,response,handy,response_p,Handy
+cmd,buy,symbol,response,handy,response_p,ask,question,Handy
+ask,question,cmd,buy,symbol,response,handy,response_p,Handy
+ask,question,cmd,buy,symbol,response,handy,response_p,Handy
+ask,question,cmd,buy,symbol,response,handy,response_p,Handy
+ask,question,cmd,buy,symbol,response,handy,response_p,Handy
+cmd,buy,number,response,unit,trade,symbol,symbol,Handy
+cmd,buy,number,response,unit,trade,symbol,symbol,Handy
+ask,question,cmd,buy,number,response,unit,trade,Handy
+ask,question,cmd,buy,number,response,unit,trade,Handy
+ask,question,cmd,buy,number,response,unit,trade,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,Handy
+faq,"what documents are required to open an account",faq,"what documents are required to open an account",faq,"what documents are required to open an account",ask,question,Handy
+faq,"what products can i trade",faq,"what products can i trade",faq,"what products can i trade",ask,question,Handy
+faq,"what products can i trade",faq,"what products can i trade",faq,"what products can i trade",ask,question,Handy
+faq,"what products can i trade",faq,"what products can i trade",faq,"what products can i trade",ask,question,Handy
+faq,"what products can i trade",faq,"what products can i trade",faq,"what products can i trade",ask,question,Handy
+faq,"what products can i trade",faq,"what products can i trade",faq,"what products can i trade",ask,question,Handy
+faq,"when can i start trading",faq,"when can i start trading",ask,question,cmd,stop,Handy
+faq,"when can i start trading",faq,"when can i start trading",ask,question,cmd,stop,Handy
+ask,request,cmd,sell,number,unit,trade,symbol,Handy
+ask,request,cmd,sell,number,unit,trade,symbol,Handy

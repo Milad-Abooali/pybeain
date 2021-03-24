@@ -7,3 +7,8 @@ cmd,buy,symbol,Handy
 ask,question,response,Handy
 ask,question,response,Handy
 ask,question,response,Handy
+response,response,response,Handy
+response,response,response,Handy
+response,handy,response_p,Handy
+response,cmd,stop,Handy
+cmd,sell,symbol,Handy

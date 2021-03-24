@@ -1,1 +1,8 @@
 ask,request,word,word,cmd,buy,symbol,forex,word,number,int,unit,trade,word,number,float,Handy
+ask,question,word,word,cmd,buy,word,symbol,forex,word,word,response,true,handy,response_p,word,Handy
+ask,question,word,word,cmd,buy,word,symbol,forex,word,word,response,true,handy,response_p,word,Handy
+ask,question,word,word,cmd,buy,word,symbol,forex,word,word,response,true,handy,response_p,word,Handy
+cmd,buy,word,number,int,response,true,word,unit,trade,word,symbol,forex,symbol,forex,word,Handy
+ask,question,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,word,Handy
+ask,question,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,word,Handy
+ask,question,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,word,Handy
