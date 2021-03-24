@@ -34,3 +34,7 @@ faq,"when can i start trading",faq,"when can i start trading",ask,question,cmd,s
 faq,"when can i start trading",faq,"when can i start trading",ask,question,cmd,stop,Handy
 ask,request,cmd,sell,number,unit,trade,symbol,Handy
 ask,request,cmd,sell,number,unit,trade,symbol,Handy
+ask,request,cmd,buy,number,response,unit,trade,Handy
+ask,request,cmd,buy,number,response,unit,trade,Handy
+ask,request,cmd,buy,number,response,unit,trade,Handy
+ask,request,cmd,buy,number,response,unit,trade,Handy
