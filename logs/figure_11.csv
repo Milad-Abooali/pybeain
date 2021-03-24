@@ -30,3 +30,6 @@ faq,"what is stop loss",faq,"what is take profit",ask,question,faq,"what is stop
 faq,"what is stop loss",faq,"what is take profit",ask,question,faq,"what is stop loss",cmd,stop,Handy
 faq,"what is stop loss",faq,"what is take profit",ask,question,faq,"what is stop loss",cmd,stop,Handy
 faq,"when can i start trading",ask,request,ask,request,faq,"when can i start trading",faq,"when can i start trading",Handy
+ask,request,ask,request,cmd,buy,number,response,unit,trade,Handy
+ask,request,ask,request,cmd,buy,number,response,unit,trade,Handy
+ask,request,ask,request,cmd,buy,number,response,unit,trade,Handy
