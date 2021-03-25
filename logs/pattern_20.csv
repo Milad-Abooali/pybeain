@@ -3,3 +3,4 @@ ask,request,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,symb
 ask,request,ask,request,word,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,word,Handy
 ask,request,ask,request,word,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,word,Handy
 ask,request,ask,request,word,word,word,cmd,buy,word,number,int,response,true,word,unit,trade,word,word,Handy
+number,int,dic,Array,word,dic,Array,unit,trade,word,dic,Array,word,dic,Array,word,dic,Array,word,Handy
