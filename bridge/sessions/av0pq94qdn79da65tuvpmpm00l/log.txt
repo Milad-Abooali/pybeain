@@ -244,3 +244,12 @@
 2021-03-26 09:42:02 I_> this is milad
 2021-03-26 09:42:02 O_> You don't say.
 
+2021-03-26 09:49:37 I_> this is milad
+2021-03-26 09:49:39 O_> You don't say.
+
+2021-03-26 09:49:43 I_> milad
+2021-03-26 09:49:43 O_> My brain pattern set does not have a response for that. What is your occupation?
+
+2021-03-26 09:49:56 I_> hello
+2021-03-26 09:49:56 O_> What can I call you?
+

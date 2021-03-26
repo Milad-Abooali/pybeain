@@ -28,16 +28,16 @@ Loading brain/bridge/aiml\std-numbers.aiml...done (0.00 seconds)
 Loading brain/bridge/aiml\std-personality.aiml...done (0.09 seconds)
 Loading brain/bridge/aiml\std-pickup.aiml...done (0.00 seconds)
 Loading brain/bridge/aiml\std-politics.aiml...done (0.00 seconds)
-Loading brain/bridge/aiml\std-profile.aiml...done (0.02 seconds)
+Loading brain/bridge/aiml\std-profile.aiml...done (0.03 seconds)
 Loading brain/bridge/aiml\std-religion.aiml...done (0.01 seconds)
-Loading brain/bridge/aiml\std-robot.aiml...done (0.05 seconds)
+Loading brain/bridge/aiml\std-robot.aiml...done (0.06 seconds)
 Loading brain/bridge/aiml\std-sales.aiml...done (0.00 seconds)
 Loading brain/bridge/aiml\std-sextalk.aiml...done (0.01 seconds)
 Loading brain/bridge/aiml\std-sports.aiml...done (0.01 seconds)
-Loading brain/bridge/aiml\std-srai.aiml...done (0.35 seconds)
+Loading brain/bridge/aiml\std-srai.aiml...done (0.33 seconds)
 Loading brain/bridge/aiml\std-suffixes.aiml...done (0.01 seconds)
-Loading brain/bridge/aiml\std-that.aiml...done (0.02 seconds)
-Loading brain/bridge/aiml\std-turing.aiml...done (0.02 seconds)
+Loading brain/bridge/aiml\std-that.aiml...done (0.03 seconds)
+Loading brain/bridge/aiml\std-turing.aiml...done (0.01 seconds)
 Loading brain/bridge/aiml\std-yesno.aiml...done (0.01 seconds)
-18392 Started.
-18392 Stoped.
+2132 Started.
+2132 Stoped.
