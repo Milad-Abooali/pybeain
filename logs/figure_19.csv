@@ -2,3 +2,6 @@ dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol,dic,Arra
 dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol,dic,Array,dic,Array
 ask,question,dic,Array,dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol
 ask,question,dic,Array,dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol
+dic,Array,ask,request,dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol
+dic,Array,ask,question,dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol
+dic,Array,ask,question,dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol
