@@ -205,3 +205,13 @@
 2021-03-26 08:44:37 I_> buy eurusd
 2021-03-26 08:44:38 O_> Try saying that with more or less context. What is your favorite color?
 
+2021-03-26 09:18:25 I_> 
+2021-03-26 09:18:45 O_> 
+
+2021-03-26 09:21:32 I_> hello
+2021-03-26 09:21:33 O_> What can I call you?
+
+2021-03-26 09:21:41 I_> hello
+2021-03-26 09:22:02 O_> 
+
+2021-03-26 09:22:02 I_> hello
