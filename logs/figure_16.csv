@@ -1,3 +1,6 @@
 dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol,datetime
 dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol,datetime
 dic,Array,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade,symbol,datetime
+dic,Array,ask,request,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade
+dic,Array,ask,request,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade
+dic,Array,ask,request,dic,Array,cmd,buy,number,dic,Array,response,dic,Array,unit,trade
