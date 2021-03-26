@@ -181,3 +181,24 @@
 2021-03-17 16:33:29 I_> 
 2021-03-17 16:33:51 O_> 
 
+2021-03-26 08:40:20 I_> 
+2021-03-26 08:40:39 O_> 
+
+2021-03-26 08:40:39 I_> 
+2021-03-26 08:40:57 O_> 
+
+2021-03-26 08:42:03 I_> hello
+2021-03-26 08:42:05 O_> What can I call you?
+
+2021-03-26 08:42:12 I_> Milad
+2021-03-26 08:42:12 O_> Not many people express themselves that way. What is your favorite color?
+
+2021-03-26 08:42:22 I_> red
+2021-03-26 08:42:22 O_> That is a nice color. What is your occupation?
+
+2021-03-26 08:42:28 I_> sex
+2021-03-26 08:42:28 O_> That is interesting. What color is your hair?
+
+2021-03-26 08:42:37 I_> black
+2021-03-26 08:42:37 O_> black is a nice hair color.
+
