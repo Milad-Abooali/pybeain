@@ -29,7 +29,7 @@ print(f'{pid} Started.')
 
 i=0
 while True:
-    if i>300: # 180 : 3 min
+    if i>1800: # 180 : 3 min
         outputFile.close()
         #outputFile.shutdown()
         os.remove(pidFilePath)
