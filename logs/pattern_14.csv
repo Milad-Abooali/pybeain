@@ -1,8 +1,0 @@
-ask,request,word,cmd,buy,symbol,forex,number,int,unit,trade,price,float,Handy
-ask,request,word,cmd,buy,symbol,forex,number,int,unit,trade,price,float,Handy
-ask,request,word,cmd,buy,symbol,forex,number,int,unit,trade,price,float,Handy
-ask,question,word,word,word,word,word,word,word,word,response,false,word,Handy
-cmd,buy,word,symbol,forex,word,word,response,true,handy,response_p,word,word,Handy
-faq,"what is take profit",ask,question,word,word,word,word,word,word,unit,trade,word,Handy
-word,response,true,handy,response_p,word,word,word,symbol,forex,word,word,word,Handy
-word,response,true,handy,response_p,word,word,word,symbol,forex,word,word,word,Handy

@@ -202,3 +202,6 @@
 2021-03-26 08:42:37 I_> black
 2021-03-26 08:42:37 O_> black is a nice hair color.
 
+2021-03-26 08:44:37 I_> buy eurusd
+2021-03-26 08:44:38 O_> Try saying that with more or less context. What is your favorite color?
+
