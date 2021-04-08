@@ -1,3 +1,17 @@
 i,want,to,buy,2,lot,usdeur
 i,want,to,buy,2,lot,usdeur
 i,want,to,buy,2,lot,usdeur
+i,want,to,but,2,lot,bitcoin
+i,want,to,buy,2,lot,bitcoin
+i,want,to,buy,2,lot,bitcoin
+i,want,to,buy,2,lot,bitcoin
+i,want,to,buy,2,lot,bitcoin
+i,want,to,buy,2,lot,bitcoin
+i,want,to,buy,2,lot,bitcoin
+i,want,to,buy,2,lot,btc
+i,want,to,buy,2,lot,btc
+i,want,to,buy,2,lot,btc
+i,want,to,buy,2,lot,btc
+i,want,to,buy,2,lot,eurusd
+i,want,to,buy,2,lot,eurusd
+i,want,to,buy,2,lot,eurusd
