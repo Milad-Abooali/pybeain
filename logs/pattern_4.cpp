@@ -7,3 +7,4 @@ dic,Array,word,0
 dic,Array,word,0
 dic,Array,word,0
 dic,Array,word,0
+cmd,login.cpp,word,0
