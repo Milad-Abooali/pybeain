@@ -65,3 +65,9 @@
 18,16,n,3,margin,login,0
 18,16,n,3,margin,login,0
 5,5,n,1,login,login,0
+5,5,n,1,login,login,0
+12,11,l,2,margin,level,0
+12,11,l,2,margin,level,0
+12,11,l,2,margin,level,0
+25,21,e,5,what,trade,0
+25,21,e,5,what,trade,0
