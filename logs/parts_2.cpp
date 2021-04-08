@@ -9,3 +9,4 @@ margin,level
 margin,level
 margin,level
 margin,level
+can,trade

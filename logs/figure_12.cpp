@@ -4,3 +4,4 @@ faq,Array,faq,,ask,question.cpp,faq,,aio,help.cpp,dic,Array
 faq,Array,faq,,ask,question.cpp,faq,,aio,help.cpp,dic,Array
 faq,Array,faq,,ask,question.cpp,faq,,aio,help.cpp,dic,Array
 faq,Array,faq,,ask,question.cpp,faq,,aio,help.cpp,dic,Array
+faq,Array,faq,Array,dic,Array,aio,help.cpp,faq,Array,dic,Array
