@@ -32,3 +32,6 @@
 26,20,r,7,i,usdeur,0
 26,20,r,7,i,usdeur,0
 26,20,r,7,i,usdeur,0
+5,5,o,1,hello,hello,0
+10,9,e,2,yes,please,0
+10,9,e,2,yes,please,0
