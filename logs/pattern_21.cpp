@@ -11,3 +11,4 @@ faq,Array,ask,question.cpp,word,faq,Array,word,faq,Array,ask,question.cpp,word,a
 faq,,ask,question.cpp,word,faq,,word,faq,,ask,question.cpp,word,aio,help.cpp,faq,Array,dic,Array,word,0
 faq,Array,ask,question.cpp,word,faq,Array,word,faq,Array,ask,question.cpp,word,aio,help.cpp,faq,Array,dic,Array,word,0
 faq,Array,faq,Array,ask,question.cpp,word,faq,Array,word,faq,Array,word,aio,help.cpp,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,ask,question.cpp,word,faq,Array,word,faq,Array,word,aio,help.cpp,faq,Array,dic,Array,word,0
