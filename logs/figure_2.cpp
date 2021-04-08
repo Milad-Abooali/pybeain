@@ -3,3 +3,7 @@ handy,hello.cpp
 handy,hello.cpp
 dic,Array
 dic,Array
+dic,Array
+dic,Array
+dic,Array
+dic,Array
