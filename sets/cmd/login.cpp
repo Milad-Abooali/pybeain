@@ -7,3 +7,5 @@ logging on
 signin
 sign in
 signing in
+login please
+please login

@@ -1,0 +1,10 @@
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0
+dic,Array,cmd,buy.cpp,word,0

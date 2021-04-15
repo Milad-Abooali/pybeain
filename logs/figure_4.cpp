@@ -1,1 +1,16 @@
 dic,Array,dic,Array
+dic,Array,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+number,unit,trade.cpp,symbol
+aio,help.cpp,dic,Array
+faq,,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+dic,Array,cmd,buy.cpp
+number,unit,trade.cpp,symbol
+number,unit,trade.cpp,symbol

@@ -1,0 +1,11 @@
+faq,Array,faq,,dic,Array,word,0
+faq,Array,faq,,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0
+faq,Array,faq,Array,dic,Array,word,0

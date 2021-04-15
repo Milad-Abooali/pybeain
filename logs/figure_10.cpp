@@ -1,3 +1,13 @@
 ask,request.cpp,cmd,buy.cpp,number,dic,Array,unit,trade.cpp,symbol
 ask,request.cpp,cmd,buy.cpp,number,dic,Array,unit,trade.cpp,symbol
 ask,request.cpp,cmd,buy.cpp,number,dic,Array,unit,trade.cpp,symbol
+faq,Array,faq,,dic,Array,faq,,dic,Array
+faq,Array,faq,,dic,Array,faq,,dic,Array
+faq,Array,faq,,dic,Array,faq,,dic,Array
+faq,Array,faq,,dic,Array,faq,,dic,Array
+faq,Array,faq,,faq,,aio,help.cpp,dic,Array
+faq,Array,faq,,faq,,aio,help.cpp,dic,Array
+faq,Array,faq,,faq,,aio,help.cpp,dic,Array
+faq,Array,faq,,faq,,aio,help.cpp,dic,Array
+faq,Array,faq,,faq,,aio,help.cpp,dic,Array
+faq,Array,faq,,faq,,aio,help.cpp,dic,Array

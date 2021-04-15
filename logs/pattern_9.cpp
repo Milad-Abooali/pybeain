@@ -3,3 +3,11 @@ faq,Array,dic,Array,word,dic,Array,word,0
 faq,Array,dic,Array,word,dic,Array,word,0
 faq,Array,dic,Array,word,dic,Array,word,0
 faq,Array,dic,Array,word,dic,Array,word,0
+ask,request.cpp,word,dic,Array,cmd,buy.cpp,word,0
+ask,request.cpp,word,dic,Array,cmd,buy.cpp,word,0
+word,word,word,aio,help.cpp,dic,Array,word,0
+faq,,word,word,word,cmd,buy.cpp,word,0
+faq,Array,faq,,faq,,dic,Array,0
+faq,Array,faq,,faq,,dic,Array,0
+word,number,int,unit,trade.cpp,word,symbol,forex.cpp,0
+word,number,int,unit,trade.cpp,word,symbol,forex.cpp,0

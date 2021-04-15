@@ -8,3 +8,5 @@ signout
 sign out
 signing out
 signing off
+please logout
+logout please

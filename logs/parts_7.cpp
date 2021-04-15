@@ -15,3 +15,5 @@ i,want,to,buy,2,lot,btc
 i,want,to,buy,2,lot,eurusd
 i,want,to,buy,2,lot,eurusd
 i,want,to,buy,2,lot,eurusd
+what,what,products,can,i,"trade
+",trade

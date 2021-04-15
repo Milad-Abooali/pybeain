@@ -13,3 +13,12 @@ what,products,can
 what,products,can
 what,products,trade
 can,trade,login
+what,products,trade
+buy,2,lot
+how,to,buy
+where,is,iran
+where,is,iran
+where,is,iran
+where,is,iran
+what,is,margin
+what,is,margin

@@ -28,3 +28,13 @@ what,products,can,trade
 what,products,can,trade
 what,products,can,trade
 what,products,can,trade
+what,products,can,trade
+what,products,can,trade
+i,want,to,buy
+i,want,to,buy
+sell,2,lot,eurusd
+how,to,strat,trade
+can,i,buy,btc
+what,to,buy,today
+bu,2,lot,eurusd
+bu,2,lot,eurusd
